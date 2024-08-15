@@ -7,8 +7,11 @@ This project is intended to do a historical analysis of the Summer Olympics.  Th
     3. Have there been more female athletes added over time?
 
 Analysis
+
     - (Insert Julian's addition of countries analysis)
+    
     -The Summer Olympics has experienced a continual increase in the variety of distinctive Olympic events.  This can be seen in the bar gragh showing the change in events compared to the prior year.  There are 18 incidents where there was increases in unique events.  The addition of new events has resulted in a wider distribution of gold medals.  This is proven when the top 5 for 1908 pie chart equated for 85.8% of gold medals for the 107 unique events.  While the top 15 for 2020 pie chart equated for 69.6% of gold medals for the 290 unique events. Countries being able to submit new events allow for more diversity in specialities that translates to more variety in countries winning. 
+    
     -The Summer Olympics has continued to experience growth in the number of female athletes.  This is demonstrated by the line plot show a positive correlation of 0.93 between females and the passage of time.  It can also be seen that the percentage of female athletes has increased from 25% in 1976 to 48% in 2020.  There has been a significant push for women in olympic sports to become even with men.  (Insert Rosa's female analysis)
 
 Methods
