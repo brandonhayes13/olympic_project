@@ -8,7 +8,7 @@ This project is intended to do a historical analysis of the Summer Olympics.  Th
 
 Analysis
 
-    - (Insert Julian's addition of countries analysis)
+    - The Summer Olympics has steadily grown in the number of countries participating, along with the number of countries that have won at least one medal. From the start of the modern Summer Olympics in 1896 to 2020, the number of countries participating increased from 13 to 206. The percentage of countries that won at least one model compared to number of countries participating has decreased over time. In 1896, 11 out of 13 participating countries won at least one medal (~85%). In 2020, 93 out of 206 won at least one medal (~45%).
     
     -The Summer Olympics has experienced a continual increase in the variety of distinctive Olympic events.  This can be seen in the bar gragh showing the change in events compared to the prior year.  There are 18 incidents where there was increases in unique events.  The addition of new events has resulted in a wider distribution of gold medals.  This is proven when the top 5 for 1908 pie chart equated for 85.8% of gold medals for the 107 unique events.  While the top 15 for 2020 pie chart equated for 69.6% of gold medals for the 290 unique events. Countries being able to submit new events allow for more diversity in specialities that translates to more variety in countries winning. 
     
@@ -19,9 +19,9 @@ Methods
 
     Clean the data that we gathered from csv files.  Utilize visuals to answer the questions above.  The following visuals were created:
 
-        1. 
-        2. 
-        3. 
+        1. A plot line with linear regression was created by counting the total number of countries that won at least one medal each Summer Olympic.
+        2. A plot line with linear regression was created by counting the total number of participating countries each Summer Olympic.
+        3. Calculation for percentage of number of participating countries that won at least a medal each Summer Olympic. A plot line with linear regression of this                 trend was created.
         4. A bar graph that was acheived by looping the events data to create a display of the changes of total events from one Summer Olympics to the next.
         5. Two pie charts that depict the difference between distribution of gold medals between countries during those designated years.
         6. A line plot showing the growth of female athletes over time.
