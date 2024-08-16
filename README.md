@@ -25,7 +25,7 @@ Methods
         4. A bar graph that was acheived by looping the events data to create a display of the changes of total events from one Summer Olympics to the next.
         5. Two pie charts that depict the difference between distribution of gold medals between countries during those designated years.
         6. A line plot with linear regression showing the growth of female athletes over time.
-        7. A line plot with linear regression showing the percentage of female athletes over time. 
+        7. A colored line plot showing the percentage of female athletes over time. 
         8.
         9.
         10.
