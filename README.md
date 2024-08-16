@@ -26,9 +26,9 @@ Methods
         5. Two pie charts that depict the difference between distribution of gold medals between countries during those designated years.
         6. A line plot with linear regression showing the growth of female athletes over time.
         7. A colored line plot showing the percentage of female athletes over time. 
-        8.
-        9.
-        10.
+        8. Create a line chart for the number of male and female athletes over time for filtered sports.
+        9. Filter out sports not played by both men and women. Create a line chart for the number of male and female athletes over time for filtered sports
+        10. Filter data for female athletes. Group data by country and count female athletes. Select top 10 countries with the most female athletes. Create the horizontal bar chart.
 
 References
 
@@ -40,3 +40,4 @@ References
       Olympics_Country.csv​
       Olympics_Games.csv​
     Sport | European Institute for Gender Equality (europa.eu)​
+    top countries in the olympics female - Search (bing.com)​
